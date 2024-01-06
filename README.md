@@ -3,7 +3,7 @@
 I'm an aspiring data scientist and a graduate student pursuing a master's in data analytics. With a strong inclination toward Natural Language Processing (NLP), I'm on a quest to unravel the intricacies of human language using the power of data.
 
 ## 🎓 Education
-- **Master's in Data Analytics** (ongoing)
+- **Master's in Data Analytics** (Expected Graduation: Fall 2024)
 - **Bachelor's in Computer Science** 
 
 ## 🛠 Technologies & Tools
@@ -13,7 +13,7 @@ I'm an aspiring data scientist and a graduate student pursuing a master's in dat
   
 ## 🚀 Current Activities
 - 🎓 Working on my master's in data analytics.
-- 📊 Gathering and labeling data for an NLP project.
+- 📊 Gathering and labeling data for an NLP project (See [Azeroth-Talks](https://github.com/Jester-Head/Azeroth-Talks)).
   
 ## 🏆 Achievements & Certifications
 - CompTIA Project+ Certification
@@ -23,6 +23,7 @@ I'm an aspiring data scientist and a graduate student pursuing a master's in dat
 - I'm an avid gamer. Whether strategizing in MMOs or enjoying a solo RPG, gaming is my go-to escape.
 
 ## 📫 How to reach me
-- LinkedIn [Sarah B](https://www.linkedin.com/in/sarah-b-399463287/)
+- Email: jesterhead0114@gmail.com
+- LinkedIn: [Sarah B](https://www.linkedin.com/in/sarah-b-399463287/)
 
 ![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jester-Head&show_icons=true&count_private=true)
