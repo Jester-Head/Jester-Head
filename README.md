@@ -1,29 +1,27 @@
 # Hi, I'm Sarah! 👋
 
-I'm an aspiring data scientist and a graduate student pursuing a master's in data analytics. With a strong inclination toward Natural Language Processing (NLP), I'm on a quest to unravel the intricacies of human language using the power of data.
+I'm an aspiring data scientist and a recent graduate with a Master's in Data Analytics. I'm especially interested in Natural Language Processing (NLP) because it allows me to explore how people communicate. My work focuses on understanding human language through data and machine learning.
 
 ## 🎓 Education
-- **Master's in Data Analytics** (Expected Graduation: Fall 2024)
-- **Bachelor's in Computer Science** 
+- **Master's in Data Analytics** (December 2024)
+- **Bachelor's in Computer Science**
 
 ## 🛠 Technologies & Tools
-- **Languages**: Proficient in Python. Familiar with various other languages such as SQL and Java.
-- **Libraries**: Experienced with popular Python libraries for data science.
-- **Databases**: Familiar with relational databases and exploring MongoDB for a project.
-  
+- **Languages**: Proficient in Python and SQL.
+- **Libraries & Frameworks**: 
+  - Data Science: pandas, NumPy, scikit-learn
+  - Machine Learning & NLP: OpenAI API, Hugging Face Transformers, spaCy, NLTK
+- **Data Collection & Scraping**: Experienced with Scrapy for web data extraction and preprocessing.
+- **Databases**: Comfortable with relational databases (e.g., MySQL, PostgreSQL) and MongoDB.
+
 ## 🚀 Current Activities
-- 🎓 Working on my master's in data analytics.
-- 📊 Gathering and labeling data for an NLP project (See [Azeroth-Talks](https://github.com/Jester-Head/Azeroth-Talks)).
-  
+- 🎓 Advancing my data analytics and machine learning proficiency through real-world projects.
+- 📊 Collecting and labeling data for my passion project ([Epic-Parse](https://github.com/Jester-Head/Epic-Parse)).
+
 ## 🏆 Achievements & Certifications
-- CompTIA Project+ Certification
-- ITIL 4 Foundation Certification
+- **CompTIA Project+ Certification**
+- **ITIL 4 Foundation Certification**
 
-## 🎮 Personal Tidbits
-- I'm an avid gamer. Whether strategizing in MMOs or enjoying a solo RPG, gaming is my go-to escape.
-
-## 📫 How to reach me
-- Email: jesterhead0114@gmail.com
-- LinkedIn: [Sarah B](https://www.linkedin.com/in/sarah-b-399463287/)
-
-![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jester-Head&show_icons=true&count_private=true)
+## 📫 How to Reach Me
+- **Email**: [jesterhead0114@gmail.com](mailto:jesterhead0114@gmail.com)
+- **LinkedIn**: [Sarah B](https://www.linkedin.com/in/sarah-b-399463287/)
