@@ -1,6 +1,6 @@
 # Hi, I'm Sarah!
 
-I'm a gamer and an AI developer, mostly working with LLM agents, RAG, and NLP.
+I'm an AI developer, and I'm a gamer, mostly working with LLM agents, RAG, and NLP.
 Math has always been my favorite subject, and it still amazes me that functions on paper have grown into systems that can hold a conversation.
 It feels like sorcery, but it's all math.
 
