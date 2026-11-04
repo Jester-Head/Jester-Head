@@ -5,7 +5,7 @@ Math has always been my favorite subject, and it still amazes me that functions 
 It feels like sorcery, but it's all math.
 
 I build data pipelines and local AI tools, often inspired by random ideas or interesting rabbit holes.
-Most of my projects end up combining data engineering, multi-agent LLM systems, and gaming.
+Most of my projects end up combining data engineering, LLM systems, and gaming.
 
 ## Selected work
 
