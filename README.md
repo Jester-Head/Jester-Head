@@ -1,11 +1,7 @@
 # Hi, I'm Sarah!
 
-I'm an AI developer, and I'm a gamer, mostly working with LLM agents, RAG, and NLP.
-Math has always been my favorite subject, and it still amazes me that functions on paper have grown into systems that can hold a conversation.
-It feels like sorcery, but it's all math.
-
-I build data pipelines and local AI tools, often inspired by random ideas or interesting rabbit holes.
-Most of my projects end up combining data engineering, LLM systems, and gaming.
+I build data pipelines and local AI tools, often inspired by random ideas and rabbit holes.
+Most of my projects combine data engineering, AI/ML, NLP, and gaming.
 
 ## Selected work
 
